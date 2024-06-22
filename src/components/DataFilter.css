@@ -1,0 +1,12 @@
+/* src/components/DataFilter.css */
+.filter-container {
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .filter-select {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
